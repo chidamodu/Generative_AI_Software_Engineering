@@ -1,0 +1,2 @@
+# Generative_AI_Software_Engineering
+Generative_AI plus Software_Engineering best practices
